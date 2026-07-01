@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0513/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寶藏天女陀羅尼法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1282.xml
+    old_id: T21n1282
+hash: sha256:2ebeb954540ecc9e744eede48ce48393885e22ba436a4777d2efd73f2a300255

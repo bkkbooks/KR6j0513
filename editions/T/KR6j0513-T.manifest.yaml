@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0513/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0513/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寶藏天女陀羅尼法
+  identifiers:
+    krp: KR6j0513
+    cbeta: T21n1282
+    cbeta_old_id: T21n1282
+    authorityid: CA0000275
+    json_key: T1282
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1282.xml
+    old_id: T21n1282
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0513_000-T.yaml, hash: 'sha256:2ebeb954540ecc9e744eede48ce48393885e22ba436a4777d2efd73f2a300255'}
+  - {seq: 1, filename: KR6j0513_001-T.yaml, hash: 'sha256:aaf5373c11d82eaa2688cd9d56c367144341f923edb30279b20e775c2e568855'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0513_000-T.markers.yaml, hash: 'sha256:c19ef33308308f85ca73c6c416a02254cf91118cb8d9c72b1c5aa23210cb80c2'}
+  - {seq: 1, role: markers, filename: assets/KR6j0513_001-T.markers.yaml, hash: 'sha256:00a5ad3b02f6c87057c9c485e93429df71e44a57b58be272eac5fd12484bfcd0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0513_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 738
+  label: 寶藏天女陀羅尼法
+  type: juan
+  level: 1
+hash: sha256:5303448f958277ad8370e978989a0a34a97d4dac4b853b4b53e482f19fe6c4e5

@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0513_000.yaml, hash: 'sha256:2ebeb954540ecc9e744eede48ce48393885e22ba436a4777d2efd73f2a300255'}
-  - {seq: 1, filename: KR6j0513_001.yaml, hash: 'sha256:12af0a5aad80a52c839ce457fb7028adf82111ac30efab613fd46f875f4b8016'}
+  - {seq: 1, filename: KR6j0513_001.yaml, hash: 'sha256:aaf5373c11d82eaa2688cd9d56c367144341f923edb30279b20e775c2e568855'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0513_001.markers.yaml, hash: 'sha256:fd396489026eb4a6990710ee1c77bbd9b4224382077969a39dfc4c4b637e611d'}
+  - {seq: 0, role: markers, filename: assets/KR6j0513_000.markers.yaml, hash: 'sha256:6053d36a94eed31a6843f4f6669fa60e7c9f9605385b2718e651b6e1dd2c88c6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0513_001.markers.yaml, hash: 'sha256:39df7fb8517c08c9e7a249fe408156404b3ed0b6d942e22256ebd65da86b3ec1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 寶藏天女陀羅尼法
   type: juan
   level: 1
-hash: sha256:6e65776df09e90c850b50c3a046d575a899cdba9ac683dd4ec57275f1656df65
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f746cd571f2ac1f09a1430db2f6824711f76bfc9c6868e178f051a02f3ef717c

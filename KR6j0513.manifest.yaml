@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0513/v1
 canonical_location: https://kanripo.org/bkk/KR6j0513/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 寶藏天女陀羅尼法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0513_000.yaml, hash: 'sha256:2ebeb954540ecc9e744eede48ce48393885e22ba436a4777d2efd73f2a300255'}
-  - {seq: 1, filename: KR6j0513_001.yaml, hash: 'sha256:aaf5373c11d82eaa2688cd9d56c367144341f923edb30279b20e775c2e568855'}
+  - {seq: 1, filename: KR6j0513_001.yaml, hash: 'sha256:1ced742e8d504284116f012fc7f1a36d21275144fa398f0a76f2b347f99a4afe'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0513_000.markers.yaml, hash: 'sha256:6053d36a94eed31a6843f4f6669fa60e7c9f9605385b2718e651b6e1dd2c88c6'}
-  - {seq: 1, role: markers, filename: assets/KR6j0513_001.markers.yaml, hash: 'sha256:39df7fb8517c08c9e7a249fe408156404b3ed0b6d942e22256ebd65da86b3ec1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0513_001.markers.yaml, hash: 'sha256:33d46e8c94e2eef5b760bf78b12140335ea3f76a6dc1b224fdc667838fcda71d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 寶藏天女陀羅尼法
   type: juan
   level: 1
-hash: sha256:f746cd571f2ac1f09a1430db2f6824711f76bfc9c6868e178f051a02f3ef717c
+hash: sha256:f8423ca2dcfdfeef9169644f884d540f74aef9cacc2c0aa4e5e164c692895e18
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
